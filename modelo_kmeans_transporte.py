@@ -23,7 +23,7 @@ print("=" * 60)
 print("SISTEMA DE CLUSTERING - TRANSPORTE MASIVO URBANO")
 print("=" * 60)
 
-df = pd.read_csv('dataset_transporte_clusterizado.csv')
+df = pd.read_csv('dataset_transporte.csv')
 
 print(f"\n[1] Dataset cargado: {df.shape[0]} registros, {df.shape[1]} variables")
 print("\nPrimeras filas:")
