@@ -1,0 +1,301 @@
+id_viaje,ruta,estacion_origen,estacion_destino,dia_semana,hora_salida,pasajeros,distancia_km,tiempo_viaje_min,incidente,temperatura_c,lluvia_mm,cluster,cluster_label
+V0001,R1 - Centro,Est. La Sabana,Est. Ricaurte,Miercoles,5,284,7.58,17.7,0,13.5,0.2,0,0
+V0002,R4 - Oriental,Est. Ferias,Est. Quirigua,Jueves,18,469,7.27,12.6,0,14.0,10.6,3,3
+V0003,R2 - Norte,Est. Portal Norte,Est. Alcala,Miercoles,8,606,16.26,31.3,0,17.6,14.6,2,2
+V0004,R5 - Occidental,Est. Garces Navas,Est. Minuto de Dios,Sabado,18,501,5.49,17.8,0,15.4,6.6,0,0
+V0005,R2 - Norte,Est. Calle 100,Est. Alcala,Lunes,11,401,17.04,53.5,0,20.5,3.5,2,2
+V0006,R5 - Occidental,Est. Garces Navas,Est. Minuto de Dios,Domingo,9,415,10.47,24.3,0,13.1,10.6,1,1
+V0007,R3 - Sur,Est. NQS Sur,Est. Bosa,Sabado,9,395,16.19,29.0,0,16.4,12.3,2,2
+V0008,R5 - Occidental,Est. Minuto de Dios,Est. Portal 80,Viernes,16,381,12.79,28.3,0,16.0,8.2,2,2
+V0009,R4 - Oriental,Est. Ferias,Est. Modelia,Miercoles,7,574,14.08,31.9,0,13.2,14.5,2,2
+V0010,R1 - Centro,Est. La Sabana,Est. Ricaurte,Miercoles,19,513,9.32,28.3,0,14.1,0.8,0,0
+V0011,R5 - Occidental,Est. Avenida 68,Est. Minuto de Dios,Martes,7,643,12.26,25.2,0,16.7,7.6,1,1
+V0012,R5 - Occidental,Est. Avenida 68,Est. Portal 80,Lunes,20,281,5.82,10.9,0,17.4,10.8,3,3
+V0013,R1 - Centro,Est. Central,Est. Ricaurte,Viernes,7,916,8.29,20.3,0,16.6,12.9,1,1
+V0014,R4 - Oriental,Est. La Granja,Est. Modelia,Domingo,10,236,6.16,11.9,0,17.8,2.7,0,0
+V0015,R2 - Norte,Est. Alcala,Est. Portal Norte,Miercoles,19,498,14.94,26.1,0,18.4,12.0,3,3
+V0016,R5 - Occidental,Est. Garces Navas,Est. Portal 80,Miercoles,15,177,11.06,30.9,0,13.1,8.3,0,0
+V0017,R1 - Centro,Est. Paloquemao,Est. Central,Viernes,7,705,9.7,21.6,0,17.2,5.9,1,1
+V0018,R3 - Sur,Est. Bosa,Est. Portal Sur,Sabado,8,580,7.14,18.7,0,21.7,2.0,1,1
+V0019,R1 - Centro,Est. Ricaurte,Est. Central,Sabado,14,213,4.49,8.6,0,17.7,13.0,3,3
+V0020,R3 - Sur,Est. Kennedy,Est. Bosa,Lunes,16,508,17.39,37.5,0,19.1,2.4,2,2
+V0021,R4 - Oriental,Est. Quirigua,Est. La Granja,Martes,17,586,5.33,11.1,1,15.8,4.6,0,0
+V0022,R2 - Norte,Est. Portal Norte,Est. Toberin,Miercoles,9,532,6.4,12.2,0,20.0,4.4,1,1
+V0023,R1 - Centro,Est. Paloquemao,Est. Ricaurte,Martes,6,534,3.86,9.4,0,20.0,13.1,1,1
+V0024,R5 - Occidental,Est. Garces Navas,Est. Portal 80,Sabado,9,411,16.29,29.1,0,17.7,10.1,2,2
+V0025,R4 - Oriental,Est. Ferias,Est. Quirigua,Sabado,15,280,12.41,27.5,0,21.8,12.0,3,3
+V0026,R1 - Centro,Est. Central,Est. La Sabana,Jueves,7,902,6.84,19.8,0,14.1,3.8,1,1
+V0027,R5 - Occidental,Est. Avenida 68,Est. Garces Navas,Domingo,21,301,8.53,17.2,0,13.2,9.4,3,3
+V0028,R1 - Centro,Est. La Sabana,Est. Paloquemao,Lunes,22,353,6.81,13.0,0,19.9,8.6,3,3
+V0029,R3 - Sur,Est. NQS Sur,Est. Portal Sur,Jueves,7,719,18.28,46.9,0,20.3,12.5,2,2
+V0030,R1 - Centro,Est. La Sabana,Est. Ricaurte,Domingo,22,220,9.54,17.6,0,14.1,13.6,3,3
+V0031,R1 - Centro,Est. Central,Est. Paloquemao,Jueves,18,885,5.37,9.6,0,15.4,0.2,0,0
+V0032,R1 - Centro,Est. Central,Est. Ricaurte,Jueves,9,521,5.27,13.9,0,13.2,10.1,1,1
+V0033,R4 - Oriental,Est. Quirigua,Est. Ferias,Lunes,18,593,5.61,9.7,0,15.6,0.8,0,0
+V0034,R1 - Centro,Est. Ricaurte,Est. Central,Lunes,10,369,9.53,28.0,0,20.0,8.2,1,1
+V0035,R5 - Occidental,Est. Minuto de Dios,Est. Garces Navas,Viernes,7,578,14.03,39.3,0,17.7,4.3,2,2
+V0036,R3 - Sur,Est. Kennedy,Est. Portal Sur,Martes,11,273,10.54,29.9,0,16.1,4.6,0,0
+V0037,R3 - Sur,Est. Bosa,Est. Portal Sur,Martes,12,207,6.83,12.3,0,16.3,5.3,0,0
+V0038,R1 - Centro,Est. Ricaurte,Est. La Sabana,Viernes,5,407,4.47,9.2,0,13.0,9.3,1,1
+V0039,R4 - Oriental,Est. Quirigua,Est. Ferias,Viernes,21,139,14.86,43.3,0,15.7,5.0,2,2
+V0040,R4 - Oriental,Est. Modelia,Est. Quirigua,Sabado,5,315,7.7,18.1,0,18.8,11.0,1,1
+V0041,R5 - Occidental,Est. Minuto de Dios,Est. Portal 80,Domingo,13,199,14.09,29.7,0,21.8,6.1,2,2
+V0042,R1 - Centro,Est. Central,Est. La Sabana,Jueves,9,482,9.22,28.5,0,20.6,1.0,1,1
+V0043,R3 - Sur,Est. Bosa,Est. Portal Sur,Viernes,18,745,12.31,22.4,0,13.2,11.8,3,3
+V0044,R4 - Oriental,Est. Ferias,Est. La Granja,Miercoles,14,172,6.75,12.8,0,21.1,4.3,3,3
+V0045,R1 - Centro,Est. Ricaurte,Est. Paloquemao,Martes,8,840,4.81,10.9,1,20.0,6.5,1,1
+V0046,R4 - Oriental,Est. La Granja,Est. Ferias,Viernes,14,162,11.1,19.3,0,20.0,10.3,3,3
+V0047,R4 - Oriental,Est. La Granja,Est. Modelia,Miercoles,14,212,12.8,30.6,0,17.1,5.0,2,2
+V0048,R3 - Sur,Est. Portal Sur,Est. NQS Sur,Miercoles,14,306,16.29,28.1,0,16.6,0.8,2,2
+V0049,R2 - Norte,Est. Calle 100,Est. Alcala,Miercoles,10,188,12.28,25.1,0,15.7,5.6,0,0
+V0050,R5 - Occidental,Est. Portal 80,Est. Minuto de Dios,Sabado,18,611,5.53,11.5,0,13.6,14.2,3,3
+V0051,R5 - Occidental,Est. Garces Navas,Est. Minuto de Dios,Sabado,7,532,16.43,47.3,0,15.1,9.6,2,2
+V0052,R3 - Sur,Est. NQS Sur,Est. Portal Sur,Miercoles,18,521,18.64,33.9,0,15.2,10.1,2,2
+V0053,R4 - Oriental,Est. Quirigua,Est. Ferias,Domingo,22,233,7.68,18.2,0,17.4,9.5,3,3
+V0054,R1 - Centro,Est. Central,Est. La Sabana,Sabado,17,668,12.32,35.6,0,19.7,3.0,2,2
+V0055,R4 - Oriental,Est. Modelia,Est. Ferias,Jueves,21,208,10.96,36.1,0,17.3,6.3,2,2
+V0056,R3 - Sur,Est. Bosa,Est. NQS Sur,Miercoles,13,357,15.36,33.5,0,13.5,11.3,2,2
+V0057,R5 - Occidental,Est. Portal 80,Est. Garces Navas,Jueves,8,510,13.84,30.8,0,21.6,1.5,2,2
+V0058,R4 - Oriental,Est. Quirigua,Est. Modelia,Jueves,17,518,13.2,26.2,0,21.5,4.2,2,2
+V0059,R5 - Occidental,Est. Portal 80,Est. Avenida 68,Miercoles,5,212,12.76,23.1,0,20.1,4.1,1,1
+V0060,R1 - Centro,Est. Paloquemao,Est. Ricaurte,Martes,15,402,4.87,15.1,0,21.9,6.5,3,3
+V0061,R5 - Occidental,Est. Minuto de Dios,Est. Garces Navas,Domingo,5,195,9.02,17.8,0,17.9,14.7,1,1
+V0062,R5 - Occidental,Est. Garces Navas,Est. Portal 80,Miercoles,19,374,15.95,45.2,0,21.7,1.0,2,2
+V0063,R2 - Norte,Est. Portal Norte,Est. Calle 100,Miercoles,22,134,8.37,15.4,0,13.7,7.8,0,0
+V0064,R2 - Norte,Est. Alcala,Est. Calle 100,Sabado,11,377,10.26,19.3,0,16.3,2.7,0,0
+V0065,R2 - Norte,Est. Calle 100,Est. Alcala,Miercoles,20,266,11.02,24.3,0,15.0,14.6,3,3
+V0066,R5 - Occidental,Est. Avenida 68,Est. Garces Navas,Martes,17,641,10.21,20.4,0,14.8,1.7,0,0
+V0067,R3 - Sur,Est. Bosa,Est. NQS Sur,Sabado,18,744,15.82,40.7,0,14.3,6.1,2,2
+V0068,R5 - Occidental,Est. Garces Navas,Est. Portal 80,Lunes,13,174,16.13,37.2,0,18.6,11.1,2,2
+V0069,R3 - Sur,Est. NQS Sur,Est. Portal Sur,Lunes,15,150,10.17,19.1,0,20.0,10.6,3,3
+V0070,R3 - Sur,Est. Kennedy,Est. Bosa,Jueves,17,734,8.36,19.4,0,18.2,6.3,0,0
+V0071,R2 - Norte,Est. Portal Norte,Est. Alcala,Domingo,8,684,8.02,20.0,0,14.3,5.2,1,1
+V0072,R4 - Oriental,Est. Ferias,Est. Modelia,Jueves,22,186,14.0,31.8,0,20.3,6.0,2,2
+V0073,R1 - Centro,Est. Ricaurte,Est. Central,Martes,15,294,9.4,17.6,0,18.7,4.0,0,0
+V0074,R2 - Norte,Est. Calle 100,Est. Alcala,Viernes,17,627,9.15,23.2,0,16.5,3.1,0,0
+V0075,R2 - Norte,Est. Alcala,Est. Toberin,Domingo,5,324,15.94,45.6,0,19.1,7.2,2,2
+V0076,R4 - Oriental,Est. Ferias,Est. Modelia,Lunes,18,399,13.72,27.3,0,15.3,4.0,0,0
+V0077,R1 - Centro,Est. La Sabana,Est. Central,Jueves,14,177,11.16,20.9,0,16.1,4.3,0,0
+V0078,R5 - Occidental,Est. Avenida 68,Est. Garces Navas,Lunes,12,187,15.85,48.2,0,21.3,9.9,2,2
+V0079,R5 - Occidental,Est. Portal 80,Est. Avenida 68,Martes,18,544,8.01,21.8,0,15.6,14.5,3,3
+V0080,R2 - Norte,Est. Portal Norte,Est. Alcala,Martes,17,785,15.16,44.6,0,17.2,9.1,2,2
+V0081,R1 - Centro,Est. La Sabana,Est. Paloquemao,Viernes,17,622,7.78,19.5,0,21.0,1.2,0,0
+V0082,R2 - Norte,Est. Calle 100,Est. Alcala,Viernes,14,206,16.28,38.1,0,19.4,1.1,2,2
+V0083,R3 - Sur,Est. Portal Sur,Est. Bosa,Sabado,18,766,17.58,34.3,0,13.6,14.3,2,2
+V0084,R2 - Norte,Est. Calle 100,Est. Portal Norte,Domingo,18,711,15.44,31.9,0,14.3,4.5,0,0
+V0085,R2 - Norte,Est. Calle 100,Est. Alcala,Martes,13,307,13.9,29.2,0,13.1,1.4,0,0
+V0086,R5 - Occidental,Est. Avenida 68,Est. Portal 80,Jueves,8,536,7.13,17.8,0,18.7,9.0,1,1
+V0087,R5 - Occidental,Est. Avenida 68,Est. Garces Navas,Lunes,18,572,11.45,21.3,0,17.0,9.4,3,3
+V0088,R5 - Occidental,Est. Portal 80,Est. Avenida 68,Miercoles,11,116,16.62,38.3,0,14.2,9.7,2,2
+V0089,R3 - Sur,Est. Kennedy,Est. NQS Sur,Viernes,7,524,20.75,35.9,0,21.6,4.0,2,2
+V0090,R5 - Occidental,Est. Avenida 68,Est. Portal 80,Miercoles,7,582,5.55,11.6,0,17.8,0.2,1,1
+V0091,R1 - Centro,Est. Central,Est. Ricaurte,Jueves,11,330,5.19,15.5,0,15.2,14.5,3,3
+V0092,R4 - Oriental,Est. Ferias,Est. La Granja,Viernes,8,480,5.96,12.1,0,17.5,3.8,1,1
+V0093,R1 - Centro,Est. Central,Est. La Sabana,Miercoles,17,688,10.1,25.8,0,19.1,10.1,3,3
+V0094,R1 - Centro,Est. Paloquemao,Est. Central,Domingo,16,485,10.91,22.1,0,13.7,10.6,3,3
+V0095,R5 - Occidental,Est. Garces Navas,Est. Avenida 68,Jueves,18,669,7.55,23.6,0,15.5,9.2,3,3
+V0096,R4 - Oriental,Est. Modelia,Est. La Granja,Lunes,18,566,9.94,28.4,0,20.3,4.7,0,0
+V0097,R4 - Oriental,Est. Quirigua,Est. Ferias,Domingo,21,285,13.51,24.9,0,17.1,4.1,0,0
+V0098,R4 - Oriental,Est. Ferias,Est. Quirigua,Jueves,14,187,12.36,33.9,0,17.9,9.0,2,2
+V0099,R3 - Sur,Est. Bosa,Est. NQS Sur,Sabado,18,750,14.75,27.5,0,16.9,13.0,3,3
+V0100,R5 - Occidental,Est. Minuto de Dios,Est. Garces Navas,Viernes,5,212,11.98,31.6,0,13.4,14.2,2,2
+V0101,R4 - Oriental,Est. La Granja,Est. Quirigua,Martes,9,428,9.97,20.7,0,14.5,1.6,0,0
+V0102,R3 - Sur,Est. NQS Sur,Est. Bosa,Lunes,8,548,11.03,22.2,0,17.0,2.3,1,1
+V0103,R2 - Norte,Est. Calle 100,Est. Alcala,Domingo,19,414,12.73,28.6,0,14.9,14.2,3,3
+V0104,R2 - Norte,Est. Toberin,Est. Calle 100,Domingo,13,341,14.31,37.0,0,13.4,11.0,2,2
+V0105,R3 - Sur,Est. Kennedy,Est. Bosa,Miercoles,7,589,19.78,54.9,0,20.6,13.2,2,2
+V0106,R3 - Sur,Est. Bosa,Est. Portal Sur,Viernes,8,674,16.18,52.3,0,21.8,3.0,2,2
+V0107,R5 - Occidental,Est. Avenida 68,Est. Garces Navas,Martes,7,607,13.99,36.2,0,20.1,8.8,2,2
+V0108,R5 - Occidental,Est. Minuto de Dios,Est. Avenida 68,Jueves,7,523,6.92,14.3,0,20.7,10.5,1,1
+V0109,R2 - Norte,Est. Toberin,Est. Portal Norte,Martes,16,570,11.4,20.1,0,15.2,10.2,3,3
+V0110,R4 - Oriental,Est. Modelia,Est. La Granja,Viernes,8,477,4.66,8.5,0,21.6,6.1,1,1
+V0111,R2 - Norte,Est. Calle 100,Est. Toberin,Viernes,18,745,8.65,16.7,0,14.8,0.2,0,0
+V0112,R4 - Oriental,Est. La Granja,Est. Modelia,Sabado,18,577,12.29,23.5,0,21.6,8.7,3,3
+V0113,R4 - Oriental,Est. La Granja,Est. Quirigua,Sabado,20,232,15.11,30.9,0,22.0,3.8,2,2
+V0114,R5 - Occidental,Est. Avenida 68,Est. Portal 80,Martes,12,219,6.21,16.6,0,19.4,6.8,3,3
+V0115,R1 - Centro,Est. La Sabana,Est. Central,Jueves,22,265,7.26,13.0,0,21.8,14.4,3,3
+V0116,R1 - Centro,Est. La Sabana,Est. Central,Martes,18,779,10.75,21.9,0,18.1,6.0,0,0
+V0117,R3 - Sur,Est. Portal Sur,Est. Kennedy,Viernes,7,724,9.61,20.9,0,15.3,12.6,1,1
+V0118,R5 - Occidental,Est. Avenida 68,Est. Garces Navas,Viernes,20,290,11.57,34.9,0,16.9,2.8,0,0
+V0119,R4 - Oriental,Est. La Granja,Est. Ferias,Miercoles,18,533,12.36,29.0,0,18.3,10.1,3,3
+V0120,R1 - Centro,Est. La Sabana,Est. Paloquemao,Sabado,5,366,9.14,21.2,0,13.7,14.7,1,1
+V0121,R4 - Oriental,Est. Modelia,Est. Ferias,Miercoles,7,507,6.56,12.0,0,18.6,1.5,1,1
+V0122,R1 - Centro,Est. Ricaurte,Est. Paloquemao,Lunes,20,380,6.86,15.1,0,21.8,0.1,0,0
+V0123,R1 - Centro,Est. La Sabana,Est. Ricaurte,Viernes,13,211,10.61,26.0,0,14.7,6.5,0,0
+V0124,R1 - Centro,Est. Ricaurte,Est. La Sabana,Miercoles,17,688,8.6,14.9,0,20.1,1.4,0,0
+V0125,R5 - Occidental,Est. Garces Navas,Est. Minuto de Dios,Martes,19,369,5.1,15.4,0,21.2,11.2,3,3
+V0126,R2 - Norte,Est. Calle 100,Est. Toberin,Sabado,18,659,15.24,36.3,0,21.5,13.7,2,2
+V0127,R4 - Oriental,Est. Quirigua,Est. Ferias,Sabado,5,282,4.94,15.8,0,21.6,6.5,1,1
+V0128,R5 - Occidental,Est. Garces Navas,Est. Portal 80,Jueves,8,485,13.81,27.1,0,17.7,3.9,2,2
+V0129,R5 - Occidental,Est. Avenida 68,Est. Garces Navas,Martes,18,586,7.42,13.2,0,21.8,6.5,3,3
+V0130,R5 - Occidental,Est. Minuto de Dios,Est. Portal 80,Jueves,12,281,16.31,43.0,0,19.8,10.9,2,2
+V0131,R5 - Occidental,Est. Avenida 68,Est. Portal 80,Miercoles,10,146,9.37,17.2,0,14.5,0.1,0,0
+V0132,R5 - Occidental,Est. Avenida 68,Est. Minuto de Dios,Domingo,21,291,8.88,23.2,0,17.3,8.8,3,3
+V0133,R3 - Sur,Est. NQS Sur,Est. Kennedy,Lunes,12,166,8.77,15.7,0,19.5,9.2,3,3
+V0134,R4 - Oriental,Est. Quirigua,Est. Ferias,Martes,16,355,7.81,15.2,0,15.2,9.6,3,3
+V0135,R5 - Occidental,Est. Avenida 68,Est. Minuto de Dios,Martes,17,482,15.35,29.1,0,18.8,3.6,2,2
+V0136,R4 - Oriental,Est. Quirigua,Est. Ferias,Martes,21,148,15.16,49.7,0,19.0,10.7,2,2
+V0137,R3 - Sur,Est. Portal Sur,Est. NQS Sur,Jueves,22,282,12.1,21.1,0,14.5,1.4,0,0
+V0138,R3 - Sur,Est. NQS Sur,Est. Portal Sur,Miercoles,14,261,13.32,26.3,0,18.1,3.0,0,0
+V0139,R4 - Oriental,Est. Modelia,Est. La Granja,Martes,18,571,12.24,31.7,0,19.9,13.2,3,3
+V0140,R1 - Centro,Est. Paloquemao,Est. Central,Domingo,11,170,11.5,21.5,0,17.5,11.1,3,3
+V0141,R2 - Norte,Est. Toberin,Est. Portal Norte,Martes,18,759,13.09,34.5,0,13.1,0.2,0,0
+V0142,R1 - Centro,Est. Ricaurte,Est. La Sabana,Sabado,20,422,7.18,13.1,0,13.1,3.7,0,0
+V0143,R1 - Centro,Est. La Sabana,Est. Central,Lunes,15,391,7.36,22.2,0,16.2,3.2,0,0
+V0144,R1 - Centro,Est. Paloquemao,Est. La Sabana,Sabado,6,501,9.84,19.7,0,21.3,4.1,1,1
+V0145,R5 - Occidental,Est. Avenida 68,Est. Minuto de Dios,Sabado,17,487,5.08,11.2,0,15.1,3.7,0,0
+V0146,R3 - Sur,Est. Portal Sur,Est. Kennedy,Lunes,7,654,15.92,48.6,0,18.7,0.9,2,2
+V0147,R1 - Centro,Est. Ricaurte,Est. La Sabana,Domingo,7,920,6.86,18.6,0,15.0,6.9,1,1
+V0148,R3 - Sur,Est. NQS Sur,Est. Bosa,Miercoles,8,600,18.57,61.2,0,15.9,11.0,2,2
+V0149,R4 - Oriental,Est. Quirigua,Est. Ferias,Sabado,10,222,5.55,12.8,0,20.6,9.1,1,1
+V0150,R2 - Norte,Est. Portal Norte,Est. Alcala,Miercoles,6,494,13.02,33.8,0,19.6,10.1,2,2
+V0151,R4 - Oriental,Est. Modelia,Est. Ferias,Sabado,7,581,9.68,20.6,0,13.9,1.2,0,0
+V0152,R4 - Oriental,Est. Ferias,Est. Modelia,Viernes,20,137,11.39,29.6,1,16.9,14.3,3,3
+V0153,R5 - Occidental,Est. Garces Navas,Est. Avenida 68,Lunes,8,493,5.8,15.1,0,13.3,12.6,1,1
+V0154,R2 - Norte,Est. Toberin,Est. Portal Norte,Sabado,11,177,12.92,25.3,0,17.3,12.1,3,3
+V0155,R4 - Oriental,Est. La Granja,Est. Ferias,Viernes,8,559,10.53,33.6,0,19.0,12.3,1,1
+V0156,R4 - Oriental,Est. Quirigua,Est. La Granja,Jueves,22,305,10.53,18.9,0,14.1,14.0,3,3
+V0157,R2 - Norte,Est. Toberin,Est. Alcala,Viernes,8,634,13.22,24.4,1,15.6,8.2,1,1
+V0158,R2 - Norte,Est. Portal Norte,Est. Calle 100,Martes,15,377,14.16,28.9,0,16.6,3.0,0,0
+V0159,R4 - Oriental,Est. Quirigua,Est. Modelia,Sabado,21,282,13.13,28.1,0,21.3,9.3,3,3
+V0160,R2 - Norte,Est. Portal Norte,Est. Calle 100,Viernes,14,348,8.95,16.2,0,21.9,11.1,3,3
+V0161,R4 - Oriental,Est. Quirigua,Est. Modelia,Miercoles,21,237,13.34,37.8,0,13.4,11.1,2,2
+V0162,R4 - Oriental,Est. Quirigua,Est. La Granja,Jueves,15,177,9.86,30.6,0,19.8,7.8,3,3
+V0163,R5 - Occidental,Est. Minuto de Dios,Est. Avenida 68,Domingo,20,279,5.95,16.2,0,16.3,1.0,0,0
+V0164,R1 - Centro,Est. Paloquemao,Est. Ricaurte,Sabado,5,171,4.26,8.1,0,16.5,5.6,1,1
+V0165,R4 - Oriental,Est. La Granja,Est. Modelia,Martes,17,567,8.12,26.2,0,19.8,13.8,3,3
+V0166,R3 - Sur,Est. Portal Sur,Est. NQS Sur,Domingo,7,744,18.43,39.6,0,21.3,8.8,2,2
+V0167,R1 - Centro,Est. Paloquemao,Est. La Sabana,Viernes,18,892,9.94,17.1,0,21.6,8.1,3,3
+V0168,R1 - Centro,Est. Ricaurte,Est. Central,Domingo,19,618,10.65,19.6,0,18.2,4.0,0,0
+V0169,R1 - Centro,Est. Paloquemao,Est. La Sabana,Domingo,15,293,8.28,18.5,0,16.2,5.5,0,0
+V0170,R5 - Occidental,Est. Portal 80,Est. Avenida 68,Jueves,22,249,10.22,32.1,0,20.1,13.4,3,3
+V0171,R4 - Oriental,Est. Ferias,Est. La Granja,Domingo,7,583,6.13,11.4,0,15.3,10.0,1,1
+V0172,R5 - Occidental,Est. Garces Navas,Est. Minuto de Dios,Domingo,12,303,8.9,18.9,0,18.1,11.8,3,3
+V0173,R4 - Oriental,Est. Ferias,Est. Modelia,Sabado,8,455,9.18,27.6,0,16.2,6.8,1,1
+V0174,R5 - Occidental,Est. Minuto de Dios,Est. Avenida 68,Jueves,8,535,6.08,18.6,0,18.9,9.5,1,1
+V0175,R5 - Occidental,Est. Minuto de Dios,Est. Portal 80,Martes,19,418,7.63,13.7,0,15.2,3.7,0,0
+V0176,R3 - Sur,Est. Portal Sur,Est. Kennedy,Viernes,18,603,15.6,31.9,0,14.7,10.6,2,2
+V0177,R5 - Occidental,Est. Garces Navas,Est. Portal 80,Jueves,15,194,13.69,25.6,0,21.3,6.4,2,2
+V0178,R2 - Norte,Est. Alcala,Est. Toberin,Jueves,5,177,18.28,33.3,0,13.9,6.6,2,2
+V0179,R3 - Sur,Est. Kennedy,Est. NQS Sur,Lunes,22,188,20.68,44.8,0,17.6,9.7,2,2
+V0180,R5 - Occidental,Est. Minuto de Dios,Est. Portal 80,Jueves,16,438,12.6,28.2,0,15.0,14.0,3,3
+V0181,R1 - Centro,Est. Ricaurte,Est. Central,Lunes,18,785,7.44,17.6,0,13.4,1.0,0,0
+V0182,R2 - Norte,Est. Toberin,Est. Calle 100,Viernes,16,490,13.64,35.0,0,13.3,12.4,2,2
+V0183,R2 - Norte,Est. Toberin,Est. Alcala,Domingo,9,463,15.55,36.7,0,14.6,4.4,2,2
+V0184,R2 - Norte,Est. Alcala,Est. Toberin,Sabado,5,251,7.01,13.5,0,20.8,6.7,1,1
+V0185,R3 - Sur,Est. Kennedy,Est. Portal Sur,Sabado,8,683,12.74,27.1,0,15.5,0.3,0,0
+V0186,R5 - Occidental,Est. Minuto de Dios,Est. Avenida 68,Viernes,14,286,14.92,27.0,0,21.6,4.5,2,2
+V0187,R5 - Occidental,Est. Minuto de Dios,Est. Portal 80,Viernes,19,445,9.55,22.4,0,18.2,7.5,3,3
+V0188,R1 - Centro,Est. Ricaurte,Est. Central,Miercoles,16,508,8.75,18.5,0,16.9,0.8,0,0
+V0189,R1 - Centro,Est. Paloquemao,Est. Ricaurte,Domingo,8,887,8.89,18.6,0,18.2,7.4,1,1
+V0190,R2 - Norte,Est. Alcala,Est. Portal Norte,Viernes,17,693,7.85,16.8,0,17.7,13.9,3,3
+V0191,R1 - Centro,Est. La Sabana,Est. Ricaurte,Jueves,8,685,6.92,13.9,0,19.8,1.6,1,1
+V0192,R3 - Sur,Est. Portal Sur,Est. NQS Sur,Sabado,11,286,11.59,31.6,0,15.5,11.5,2,2
+V0193,R5 - Occidental,Est. Garces Navas,Est. Avenida 68,Martes,19,426,5.35,12.0,0,16.2,6.1,0,0
+V0194,R2 - Norte,Est. Portal Norte,Est. Calle 100,Sabado,8,729,5.8,17.6,0,21.0,9.8,1,1
+V0195,R1 - Centro,Est. Ricaurte,Est. Paloquemao,Lunes,8,690,11.03,27.0,0,21.5,3.9,1,1
+V0196,R3 - Sur,Est. NQS Sur,Est. Bosa,Sabado,21,173,10.66,24.3,0,21.0,2.4,0,0
+V0197,R3 - Sur,Est. Kennedy,Est. NQS Sur,Miercoles,8,693,14.38,29.7,0,16.8,2.4,2,2
+V0198,R1 - Centro,Est. Paloquemao,Est. Ricaurte,Domingo,7,811,6.36,11.2,0,20.0,1.1,1,1
+V0199,R5 - Occidental,Est. Garces Navas,Est. Portal 80,Viernes,5,112,16.1,34.2,0,17.3,2.8,2,2
+V0200,R1 - Centro,Est. Central,Est. La Sabana,Domingo,5,419,6.02,11.8,0,17.5,10.0,1,1
+V0201,R2 - Norte,Est. Alcala,Est. Toberin,Viernes,17,703,10.99,24.8,0,14.8,13.2,3,3
+V0202,R1 - Centro,Est. Paloquemao,Est. Ricaurte,Sabado,22,206,11.39,23.7,0,18.3,12.2,3,3
+V0203,R3 - Sur,Est. Portal Sur,Est. Kennedy,Martes,13,275,19.3,60.3,0,14.7,10.3,2,2
+V0204,R1 - Centro,Est. Ricaurte,Est. La Sabana,Martes,18,881,5.38,14.5,0,16.0,1.7,0,0
+V0205,R5 - Occidental,Est. Minuto de Dios,Est. Garces Navas,Miercoles,8,642,14.48,36.0,0,20.7,4.3,2,2
+V0206,R4 - Oriental,Est. Ferias,Est. Quirigua,Lunes,19,376,9.44,21.8,0,14.9,4.6,0,0
+V0207,R1 - Centro,Est. Central,Est. La Sabana,Sabado,8,725,7.98,25.5,0,13.6,3.7,1,1
+V0208,R5 - Occidental,Est. Minuto de Dios,Est. Avenida 68,Viernes,5,255,6.61,19.5,0,13.6,7.7,1,1
+V0209,R5 - Occidental,Est. Minuto de Dios,Est. Garces Navas,Sabado,20,169,5.99,15.8,0,21.5,8.0,3,3
+V0210,R3 - Sur,Est. NQS Sur,Est. Bosa,Miercoles,8,713,17.57,30.5,0,17.6,5.4,2,2
+V0211,R5 - Occidental,Est. Portal 80,Est. Minuto de Dios,Jueves,7,469,10.88,27.6,0,16.7,5.3,1,1
+V0212,R5 - Occidental,Est. Avenida 68,Est. Garces Navas,Jueves,13,276,10.18,23.3,0,20.3,12.4,3,3
+V0213,R5 - Occidental,Est. Minuto de Dios,Est. Portal 80,Miercoles,7,514,13.62,38.3,0,20.5,11.8,2,2
+V0214,R5 - Occidental,Est. Garces Navas,Est. Minuto de Dios,Viernes,18,520,14.04,29.7,0,16.0,4.6,0,0
+V0215,R2 - Norte,Est. Portal Norte,Est. Alcala,Domingo,7,596,7.53,19.8,0,19.2,13.7,1,1
+V0216,R2 - Norte,Est. Portal Norte,Est. Alcala,Miercoles,15,287,13.31,37.1,0,19.9,14.3,2,2
+V0217,R3 - Sur,Est. NQS Sur,Est. Portal Sur,Viernes,7,647,8.57,19.2,0,18.9,4.9,1,1
+V0218,R1 - Centro,Est. Ricaurte,Est. Paloquemao,Martes,18,777,10.32,34.2,0,14.4,5.3,0,0
+V0219,R5 - Occidental,Est. Minuto de Dios,Est. Portal 80,Miercoles,22,200,12.77,42.3,0,20.9,7.6,2,2
+V0220,R1 - Centro,Est. Ricaurte,Est. Paloquemao,Viernes,17,788,12.12,33.5,0,17.9,14.1,3,3
+V0221,R1 - Centro,Est. Paloquemao,Est. Ricaurte,Miercoles,13,360,4.35,14.0,0,15.5,13.1,3,3
+V0222,R3 - Sur,Est. Portal Sur,Est. Bosa,Miercoles,10,230,7.38,22.3,0,16.8,1.5,0,0
+V0223,R5 - Occidental,Est. Minuto de Dios,Est. Portal 80,Domingo,11,127,8.36,21.1,0,13.3,5.9,0,0
+V0224,R5 - Occidental,Est. Portal 80,Est. Garces Navas,Domingo,19,348,8.12,15.4,0,14.2,8.3,0,0
+V0225,R4 - Oriental,Est. Quirigua,Est. Ferias,Viernes,13,178,7.19,15.6,0,19.9,7.5,3,3
+V0226,R1 - Centro,Est. Central,Est. Paloquemao,Viernes,5,169,11.68,26.2,0,13.0,2.9,0,0
+V0227,R1 - Centro,Est. Central,Est. Paloquemao,Lunes,21,374,5.93,15.5,0,16.7,12.9,3,3
+V0228,R2 - Norte,Est. Calle 100,Est. Toberin,Miercoles,15,321,8.97,15.9,1,17.7,10.2,3,3
+V0229,R4 - Oriental,Est. Ferias,Est. Modelia,Jueves,13,189,12.64,30.6,0,13.5,12.6,2,2
+V0230,R2 - Norte,Est. Alcala,Est. Calle 100,Miercoles,22,235,11.25,34.6,0,21.8,12.9,3,3
+V0231,R2 - Norte,Est. Calle 100,Est. Alcala,Miercoles,20,338,15.44,32.5,0,15.0,11.2,2,2
+V0232,R2 - Norte,Est. Toberin,Est. Alcala,Viernes,7,702,6.33,19.1,0,15.7,6.6,1,1
+V0233,R3 - Sur,Est. Bosa,Est. Kennedy,Miercoles,8,550,13.92,35.0,0,15.7,9.2,2,2
+V0234,R3 - Sur,Est. Kennedy,Est. Portal Sur,Sabado,14,178,7.02,15.8,0,15.1,2.4,0,0
+V0235,R2 - Norte,Est. Toberin,Est. Portal Norte,Miercoles,8,756,6.29,11.5,1,13.0,10.1,1,1
+V0236,R4 - Oriental,Est. Quirigua,Est. Modelia,Sabado,17,426,14.2,32.3,0,19.6,2.7,2,2
+V0237,R1 - Centro,Est. Central,Est. Paloquemao,Domingo,5,266,4.97,10.0,0,21.7,10.4,1,1
+V0238,R4 - Oriental,Est. La Granja,Est. Quirigua,Jueves,20,256,10.22,17.6,0,15.0,3.4,0,0
+V0239,R5 - Occidental,Est. Minuto de Dios,Est. Avenida 68,Viernes,20,250,9.87,29.3,0,19.0,1.8,0,0
+V0240,R3 - Sur,Est. Bosa,Est. Portal Sur,Miercoles,20,342,11.79,31.2,0,19.7,2.5,0,0
+V0241,R1 - Centro,Est. La Sabana,Est. Paloquemao,Sabado,13,425,11.62,28.2,0,20.6,0.0,0,0
+V0242,R1 - Centro,Est. Paloquemao,Est. Ricaurte,Sabado,13,302,3.94,9.4,0,16.8,10.8,3,3
+V0243,R5 - Occidental,Est. Portal 80,Est. Minuto de Dios,Domingo,13,243,12.85,30.9,0,15.7,11.0,2,2
+V0244,R5 - Occidental,Est. Portal 80,Est. Avenida 68,Sabado,10,141,16.37,29.4,0,15.9,7.7,2,2
+V0245,R2 - Norte,Est. Toberin,Est. Calle 100,Martes,18,803,12.67,25.2,0,19.4,2.4,0,0
+V0246,R3 - Sur,Est. NQS Sur,Est. Bosa,Lunes,17,552,20.74,43.9,0,20.4,1.3,2,2
+V0247,R3 - Sur,Est. Portal Sur,Est. Kennedy,Jueves,6,411,7.3,18.8,0,14.6,0.3,0,0
+V0248,R4 - Oriental,Est. Quirigua,Est. Modelia,Domingo,14,104,9.02,16.9,0,16.3,2.5,0,0
+V0249,R2 - Norte,Est. Toberin,Est. Portal Norte,Domingo,18,782,8.82,15.5,0,21.1,13.4,3,3
+V0250,R2 - Norte,Est. Calle 100,Est. Alcala,Miercoles,13,252,14.85,27.9,0,20.3,3.6,2,2
+V0251,R2 - Norte,Est. Portal Norte,Est. Calle 100,Martes,9,493,18.06,60.1,0,21.9,5.3,2,2
+V0252,R2 - Norte,Est. Calle 100,Est. Portal Norte,Miercoles,12,411,8.78,18.3,0,19.8,1.6,0,0
+V0253,R3 - Sur,Est. NQS Sur,Est. Portal Sur,Miercoles,6,456,16.45,52.3,0,16.5,3.3,2,2
+V0254,R3 - Sur,Est. Kennedy,Est. Portal Sur,Viernes,13,217,9.52,25.5,0,18.3,7.8,3,3
+V0255,R2 - Norte,Est. Calle 100,Est. Portal Norte,Viernes,19,556,12.73,40.2,0,18.9,9.1,2,2
+V0256,R4 - Oriental,Est. Ferias,Est. Modelia,Viernes,18,601,9.5,20.2,1,13.7,3.7,0,0
+V0257,R1 - Centro,Est. La Sabana,Est. Central,Martes,18,716,12.26,24.8,0,17.9,0.9,0,0
+V0258,R1 - Centro,Est. Ricaurte,Est. Paloquemao,Miercoles,18,665,9.07,27.3,0,19.4,5.9,0,0
+V0259,R4 - Oriental,Est. La Granja,Est. Modelia,Lunes,17,576,8.28,20.3,0,14.5,3.5,0,0
+V0260,R2 - Norte,Est. Portal Norte,Est. Toberin,Jueves,18,740,6.95,16.2,0,20.0,3.3,0,0
+V0261,R3 - Sur,Est. NQS Sur,Est. Portal Sur,Viernes,6,499,8.81,21.8,0,18.3,14.4,1,1
+V0262,R1 - Centro,Est. La Sabana,Est. Ricaurte,Viernes,17,824,5.72,17.1,0,21.6,9.2,3,3
+V0263,R5 - Occidental,Est. Portal 80,Est. Avenida 68,Domingo,8,631,7.99,19.1,0,13.4,8.4,1,1
+V0264,R5 - Occidental,Est. Garces Navas,Est. Avenida 68,Miercoles,16,364,15.04,29.3,0,15.4,6.2,2,2
+V0265,R4 - Oriental,Est. Ferias,Est. Modelia,Miercoles,15,129,10.53,32.9,0,18.4,6.4,2,2
+V0266,R2 - Norte,Est. Alcala,Est. Portal Norte,Martes,9,418,12.19,37.8,0,15.7,8.1,2,2
+V0267,R1 - Centro,Est. Paloquemao,Est. Central,Martes,16,485,4.75,11.9,0,19.4,10.4,3,3
+V0268,R2 - Norte,Est. Alcala,Est. Toberin,Viernes,11,382,16.51,29.1,0,19.8,10.5,2,2
+V0269,R1 - Centro,Est. La Sabana,Est. Ricaurte,Miercoles,5,278,10.07,20.6,0,13.9,2.6,0,0
+V0270,R4 - Oriental,Est. Quirigua,Est. Modelia,Lunes,7,484,5.28,10.7,0,17.6,7.5,1,1
+V0271,R4 - Oriental,Est. Quirigua,Est. Ferias,Jueves,20,110,12.09,30.0,0,17.6,6.2,3,3
+V0272,R5 - Occidental,Est. Portal 80,Est. Garces Navas,Miercoles,8,611,11.43,24.4,0,16.3,13.1,1,1
+V0273,R2 - Norte,Est. Portal Norte,Est. Toberin,Domingo,20,295,6.54,21.6,0,21.4,9.5,3,3
+V0274,R5 - Occidental,Est. Garces Navas,Est. Portal 80,Miercoles,19,378,10.43,21.7,0,20.4,8.0,3,3
+V0275,R2 - Norte,Est. Toberin,Est. Calle 100,Sabado,8,837,11.7,20.9,0,19.3,1.7,1,1
+V0276,R5 - Occidental,Est. Minuto de Dios,Est. Portal 80,Martes,7,671,6.99,14.8,0,19.4,9.1,1,1
+V0277,R3 - Sur,Est. Portal Sur,Est. NQS Sur,Domingo,17,571,20.88,38.1,0,17.2,1.8,2,2
+V0278,R3 - Sur,Est. Kennedy,Est. NQS Sur,Jueves,5,279,19.42,38.4,0,21.3,5.1,2,2
+V0279,R3 - Sur,Est. Kennedy,Est. NQS Sur,Viernes,12,156,16.67,49.9,0,19.3,2.1,2,2
+V0280,R3 - Sur,Est. Kennedy,Est. Bosa,Domingo,10,310,13.53,24.3,0,19.6,10.4,2,2
+V0281,R1 - Centro,Est. Paloquemao,Est. Central,Miercoles,18,829,7.35,23.1,0,20.8,3.1,0,0
+V0282,R3 - Sur,Est. Kennedy,Est. Portal Sur,Viernes,11,220,16.4,36.3,0,15.5,5.9,2,2
+V0283,R4 - Oriental,Est. La Granja,Est. Ferias,Miercoles,6,341,10.36,30.4,0,20.3,13.4,1,1
+V0284,R4 - Oriental,Est. Quirigua,Est. Ferias,Viernes,20,175,5.22,17.2,0,14.8,3.1,0,0
+V0285,R1 - Centro,Est. Paloquemao,Est. Ricaurte,Jueves,7,762,8.23,19.6,0,16.1,7.6,1,1
+V0286,R3 - Sur,Est. Portal Sur,Est. Kennedy,Martes,20,316,18.76,48.9,0,16.0,6.3,2,2
+V0287,R3 - Sur,Est. Portal Sur,Est. Kennedy,Jueves,13,130,13.49,30.8,0,21.8,0.3,2,2
+V0288,R3 - Sur,Est. Kennedy,Est. Bosa,Sabado,13,92,7.3,15.7,0,20.7,11.9,3,3
+V0289,R5 - Occidental,Est. Garces Navas,Est. Avenida 68,Lunes,9,362,14.29,45.7,0,19.3,1.0,2,2
+V0290,R2 - Norte,Est. Toberin,Est. Calle 100,Martes,20,281,8.07,24.1,0,19.5,7.1,3,3
+V0291,R5 - Occidental,Est. Garces Navas,Est. Avenida 68,Jueves,9,367,8.08,17.6,0,18.1,8.4,1,1
+V0292,R2 - Norte,Est. Portal Norte,Est. Toberin,Sabado,5,188,7.6,19.1,0,21.5,9.4,1,1
+V0293,R3 - Sur,Est. Bosa,Est. Kennedy,Lunes,16,485,11.53,22.8,0,17.5,10.3,3,3
+V0294,R3 - Sur,Est. NQS Sur,Est. Portal Sur,Sabado,14,157,18.01,37.1,0,16.4,3.8,2,2
+V0295,R5 - Occidental,Est. Portal 80,Est. Avenida 68,Miercoles,21,205,11.15,20.7,0,14.5,0.1,0,0
+V0296,R5 - Occidental,Est. Portal 80,Est. Avenida 68,Miercoles,18,607,7.45,15.0,0,20.1,10.9,3,3
+V0297,R2 - Norte,Est. Alcala,Est. Calle 100,Viernes,9,462,16.74,39.7,0,19.6,8.0,2,2
+V0298,R4 - Oriental,Est. La Granja,Est. Ferias,Martes,15,163,13.92,28.4,0,16.5,12.5,3,3
+V0299,R2 - Norte,Est. Toberin,Est. Alcala,Miercoles,11,317,16.64,44.0,0,13.2,12.3,2,2
+V0300,R5 - Occidental,Est. Minuto de Dios,Est. Garces Navas,Domingo,18,635,7.85,20.3,0,20.6,12.6,3,3
